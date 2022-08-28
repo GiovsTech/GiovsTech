@@ -5,8 +5,7 @@
 </h2>
 
 <h2 align="center">
-    I'm
-    
+    I'm  
     GiovsTechs
     <img alt="dev" src="https://gianstech.it/icons/gt.png" width="50"> 
 </h2>
