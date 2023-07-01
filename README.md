@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am GiovsTech </h1>
 
-<p align="center" width="150px"> I am GiovsTech, a young developer of 14 years old, that know the most powerful programming languages. Moreover, He built a online community with a project called, <a href="https://gthz.it/hz">Hazen Tech</a></p>
+<p align="center" width="150px"> I am GiovsTech, a young developer of 14 years old, that know the most powerful programming languages.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BGiovsTech%7D/count.svg" alt="visitor badge"/></p>
