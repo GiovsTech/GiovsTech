@@ -7,8 +7,8 @@
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BGiovsTech%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovsTech&layout=compact&hide=TSQL&theme=chartreuse-dark&?PAT_1=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"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=GiovsTech&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true&?PAT_1=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" width="400"></p> 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovsTech&layout=compact&hide=TSQL&theme=chartreuse-dark&?PAT_1=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"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=GiovsTech&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true&?PAT_1=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" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=GiovsTech&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
