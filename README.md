@@ -35,7 +35,7 @@
 <a href="https://gthz.it/ln"><img src="https://img.icons8.com/color/48/null/linkedin-2--v1.png"/></a>
 <a href="https://gthz.it/em"><img src="https://img.icons8.com/color/48/null/apple-mail.png"/></a>
 <a href="https://gthz.it/ds"><img src="https://img.icons8.com/fluency/48/null/discord-logo.png"/></a>
-<a href="https://gthz.it/ms"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mastodon-is-an-online-self-hosted-social-media-and-social-networking-service-logo-color-tal-revivo.png"/></a>
+<a href="https://gthz.it/ms"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mastodon-is-an-online-self-hosted-social-media-and-social-networking-service-logo-color-tal-revivo.png"/></a>
 </p>
 
 ---
