@@ -35,7 +35,7 @@
 <a href="https://gthz.it/ln"><img src="https://img.icons8.com/color/48/null/linkedin-2--v1.png"/></a>
 <a href="https://gthz.it/em"><img src="https://img.icons8.com/color/48/null/apple-mail.png"/></a>
 <a href="https://gthz.it/ds"><img src="https://img.icons8.com/fluency/48/null/discord-logo.png"/></a>
-<a href="https://gthz.it/tw"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
+<a href="https://gthz.it/ms"><img src="https://img.icons8.com/color/48/null/mastodon.png"/></a>
 </p>
 
 ---
