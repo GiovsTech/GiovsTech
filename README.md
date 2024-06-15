@@ -1,4 +1,4 @@
-<p align="center"><img src="https://gianstech.it/img/logo_hu504d07b2dd5dcd8f48037821f5974907_18553_300x0_resize_q75_box.jpg"></p>
+<p align="center"><img src="https://giovstechs.it/img/logo_hu504d07b2dd5dcd8f48037821f5974907_18553_300x0_resize_q75_box.jpg"></p>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm GiovsTech </h1>
