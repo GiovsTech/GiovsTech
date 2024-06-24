@@ -31,7 +31,7 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://gianstech.it"><img width="48px" height="48px" src="https://gianstech.it/img/logo_hu504d07b2dd5dcd8f48037821f5974907_18553_300x0_resize_q75_box.jpg"/></a>
+<a href="https://giovstechs.it"><img width="48px" height="48px" src="https://giovstechs.it/img/logo_hu504d07b2dd5dcd8f48037821f5974907_18553_300x0_resize_q75_box.jpg"/></a>
 <a href="https://gthz.it/ln"><img src="https://img.icons8.com/color/48/null/linkedin-2--v1.png"/></a>
 <a href="https://gthz.it/em"><img src="https://img.icons8.com/color/48/null/apple-mail.png"/></a>
 <a href="https://gthz.it/ds"><img src="https://img.icons8.com/fluency/48/null/discord-logo.png"/></a>
